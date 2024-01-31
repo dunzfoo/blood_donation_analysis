@@ -17,4 +17,4 @@
 1) Completed the whole project using aggregate data as there are some limitations with the granular data. Limitations include:
 - Absent of state data
 - Start year of granular data as of 2012 as compared to 2006 of aggregate data
-- - While the total number of donation is accurate, the number of regular(within 2y)/new/irregular(greater than 2y) donor could not be calculated accurately. Refer to bd_analysis_rev00_granular.ipynb
+- - While the total number of donation is accurate, the number of regular(within 2y)/new/irregular(greater than 2y) donor could not be calculated accurately. Refer to file > bd_analysis_rev00_granular.ipynb
