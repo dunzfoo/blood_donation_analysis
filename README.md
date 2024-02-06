@@ -26,4 +26,4 @@ Completed the project using aggregate data as there are some limitations with th
 - Absent of state data
 - Start year of granular data as of 2012 as compared to 2006 of aggregate data
   - While the total number of donation is accurate, the number of regular/new/irregular donor could not be calculated accurately. Refer to file > [bd_analysis_rev00_granular.ipynb](https://github.com/dunzfoo/blood_donation_analysis/blob/main/bd_analysis_rev00_granular.ipynb)
-  - *Added on 6/2/24: Wrongly assumed granular data were completely sorted by donor_id, values were close to aggregate data (more accurate) when sorted by donor_id before categorizing by donor regularity. This could then be incorporated to the project to generate output 1(i), 2 and 3* 
+  - *Correction to point above (added on 6/2/24): Wrongly assumed granular data were completely sorted by donor_id, values were close to aggregate data (more accurate) when sorted by donor_id before categorizing by donor regularity. This could then be incorporated to the project to generate output 1(i), 2 and 3* 
